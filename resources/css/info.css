@@ -1,0 +1,48 @@
+.welcome{
+    background-color: purple;
+    margin-top: 25px;
+    color: white;
+    padding: 8px 0;
+    text-align: center;
+}
+#life{
+    font-weight: 900;
+    line-height: 300%;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.softwork{
+    color: purple;
+}
+
+.begin{
+    font-weight: 700;
+    color: purple;
+}
+
+.images{
+    width: 100px;
+    height: 100px;
+}
+
+.bts{
+    background-color: white;
+    padding: 8px 0;
+    margin-top: 25px;
+    text-align: center;
+    height: auto;
+    max-width: 100%;
+}
+
+.army{
+    background-color: purple;
+    color: white;
+    font-weight: 900;
+    height: 100%;
+    background-size: cover;
+    padding: 8px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}

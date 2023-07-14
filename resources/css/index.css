@@ -1,0 +1,39 @@
+.banner{
+     background-color: purple;
+     color: white;
+     margin-top: 25px;
+     text-align: center;
+     padding: 100px 0;
+}
+
+#V{
+    height: 100px;
+    width: 100px;
+}
+
+#softwork{
+    color: purple;
+    font-size: 40px;
+}
+.bold{
+    font-weight: 900;
+}
+
+#read{
+    cursor: pointer;
+}
+
+.begin{
+    font-weight: 700;
+    color: purple;
+}
+
+.gif-container {
+    display: none;
+  }
+  
+  .hover-button:hover + .gif-container {
+    display: block;
+    cursor: pointer;
+  }
+  
